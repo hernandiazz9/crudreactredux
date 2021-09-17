@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "id": 9,
+      "nombre": "beer",
+      "precio": "32"
+    },
+    {
+      "id": 10,
+      "nombre": "4232",
+      "precio": "1212"
+    },
+    {
+      "nombre": "s",
+      "precio": 1,
+      "id": 12
+    }
+  ]
+}
