@@ -18,7 +18,7 @@ npm install
 ```
 _Esta aplicacion necesita de [json-server](https://www.npmjs.com/package/json-server) del archivo db.json en el puerto 4000 para levantar la **REST API**_
 ```
-json-server db.json --port 400
+json-server db.json --port 4000
 ```
 
 ## Construido con 🛠️
