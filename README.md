@@ -6,6 +6,15 @@ _Aplicacion de gestion de productos y precio. Agregar, Editar, Eliminar producto
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
+
+## Imagenes 🎬
+
+<img width="1618" alt="Screen Shot 2021-10-22 at 09 22 06" src="https://user-images.githubusercontent.com/62017712/138454544-deb833b5-d1d3-488d-a8a4-49ef7294dd69.png">
+<img width="1618" alt="Screen Shot 2021-10-22 at 09 22 21" src="https://user-images.githubusercontent.com/62017712/138454551-e9b3db61-0cf7-4acd-a40d-e3e42af53cb7.png">
+<img width="1618" alt="Screen Shot 2021-10-22 at 09 21 17" src="https://user-images.githubusercontent.com/62017712/138454552-51f1d066-0e8f-404e-89d2-78d08315b631.png">
+
+
+
 ### Instalación 🔧
 
 _Clonar el repositorio e instalar dependencias._
