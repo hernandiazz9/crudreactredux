@@ -1,24 +1,24 @@
 {
   "productos": [
     {
-<<<<<<< HEAD
-      "nombre": "alambre",
-      "precio": 1230,
-=======
-      "id": 9,
-      "nombre": "beer",
-      "precio": "32"
+      "nombre": "queso",
+      "precio": 100,
+      "id": 1
     },
     {
-      "id": 10,
-      "nombre": "4232",
-      "precio": "1212"
+      "nombre": "jamon",
+      "precio": 150,
+      "id": 2
     },
     {
-      "nombre": "s",
-      "precio": 1,
->>>>>>> 48e578286a99f5415d5a09f2cf314f7929961ee6
-      "id": 12
+      "nombre": "harina",
+      "precio": 80,
+      "id": 3
+    },
+    {
+      "nombre": "salsa de tomate",
+      "precio": 70,
+      "id": 4
     }
   ]
 }
