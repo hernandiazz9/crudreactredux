@@ -1,10 +1,10 @@
 {
   "productos": [
     {
-<<<<<<< HEAD
+
       "nombre": "alambre",
       "precio": 1230,
-=======
+
       "id": 9,
       "nombre": "beer",
       "precio": "32"
@@ -17,7 +17,6 @@
     {
       "nombre": "s",
       "precio": 1,
->>>>>>> 48e578286a99f5415d5a09f2cf314f7929961ee6
       "id": 12
     }
   ]
