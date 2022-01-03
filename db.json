@@ -1,11 +1,6 @@
 {
   "productos": [
     {
-      "nombre": "queso",
-      "precio": 100,
-      "id": 1
-    },
-    {
       "nombre": "jamon",
       "precio": 150,
       "id": 2
